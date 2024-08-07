@@ -1,5 +1,15 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Nunito&size=100&duration=2200&pause=1000&color=697EF7&center=true&vCenter=true&width=600&height=200&lines=Hi+There+;I'm+Aditya.;"/></h1>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=adityarafii-code&label=Profile%20views&color=0e75b6&style=flat" alt="adityarafii" /> </p>
+<hr>
 
 
+<div align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGRrZmIydWNkaXJuN2c3aHg0cGVucXFlYnY4M2RlanNjNXhldjA0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iigcSmBaMUC5FoSUlu/giphy.gif" alt="Meoww" width=500 height=400>
+</div>
+<hr>
+
+## Hi There 👋, I'm Aditya.
+
+### About Me:
+- <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmhhMmphMGoxdG54a2RtZjJ1Y2lvMnk2eWRsZjBwdm9rbTR2eGdjeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T3rgaqd1vT6idUS12Q/giphy.gif" alt="" width=20 height=20> My aspiration to become a full-stack developer.
+- 👨‍🎓 Undergraduate Information Technology Student.
 
