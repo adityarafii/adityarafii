@@ -8,6 +8,7 @@
 <hr>
 
 ## Hi There 👋, I'm Aditya.
+## I'll update my activities as soon as possible
 
 ### About Me:
 - <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmhhMmphMGoxdG54a2RtZjJ1Y2lvMnk2eWRsZjBwdm9rbTR2eGdjeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T3rgaqd1vT6idUS12Q/giphy.gif" alt="" width=20 height=20> "Will become a full-stack developer."
