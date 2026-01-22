@@ -1,16 +1,29 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=adityarafii-code&label=Profile%20views&color=0e75b6&style=flat" alt="adityarafii" /> </p>
-<hr>
-
-
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGRrZmIydWNkaXJuN2c3aHg0cGVucXFlYnY4M2RlanNjNXhldjA0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iigcSmBaMUC5FoSUlu/giphy.gif" alt="Meoww" width=330 height=250>
+  <img src="https://media.giphy.com/media/iigcSmBaMUC5FoSUlu/giphy.gif" width="200" alt="Coding GIF" />
+
+  # Hi, I'm Aditya 👋
+
+  **Aspiring Full-Stack Developer | Information Technology Student**
+
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=adityarafii-code&label=Profile%20views&color=0e75b6&style=flat" alt="adityarafii" />
+  </p>
 </div>
-<hr>
 
-## Hi There 👋, I'm Aditya.
-## I'll update my activities as soon as possible
+---
 
-### About Me:
-- <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmhhMmphMGoxdG54a2RtZjJ1Y2lvMnk2eWRsZjBwdm9rbTR2eGdjeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T3rgaqd1vT6idUS12Q/giphy.gif" alt="" width=20 height=20> "Will become a full-stack developer."
-- 👨‍🎓 Undergraduate Information Technology Student.
+### 👨‍💻 About Me
+- 🎓 **Undergraduate Student** majoring in Information Technology.
+- 💻 Currently focusing on **Web Development** and **Data**.
+- 🌱 Learning **React, PHP,** and **Networking (Cisco/MikroTik)**.
+- 🎯 Goal: To become a professional **Full-Stack Developer**.
 
+### 🛠️ Languages & Tools
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /> 
+
+<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /> <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+
+---
+<div align="center">
+  <small>Let's connect and code together!</small>
+</div>
