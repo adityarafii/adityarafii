@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/iigcSmBaMUC5FoSUlu/giphy.gif" width="200" alt="Coding GIF" />
 
-  # Hi, I'm Aditya 👋
+  
 
   **Aspiring Full-Stack Developer | Information Technology Student**
 
